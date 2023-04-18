@@ -25,7 +25,8 @@
 	<p>The executable file will provide you with a graphical user interface to choose the renaming format (Arabic or English names)</p>
 	<p>then select the Quran directory and rename the files.</p>
 	<p>After renaming the files, you will be able to easily navigate and play the MP3 files based on their surah name.</p>
-	
+
+<img src="https://cdn.glitch.global/112883e5-9153-4ab5-ba6c-5e77448d87f4/QuranRenamer.gif?v=1681828315597" alt="this slowpoke moves"  width="250" alt="404 image"/>
 
 </body>
 </html>
