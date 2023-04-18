@@ -1,6 +1,7 @@
 <html>
 <body>
-	<h1>Quran MP3 Renaming Tool</h1>
+	<img src="https://i.ibb.co/CHXX2Tg/koran.png" alt="koran" border="0" style="width:100px; height:100px;">
+	<h1>Quran MP3 Files Renaming Tool</h1>
 	<p>This is a tool that renames Quran MP3 files in a given directory according to their surah name. MP3 files are renamed to "{surah_number} - {surah_name}.mp3".</p>
 	<h2>Requirements</h2>
 	<ul>
@@ -20,8 +21,9 @@
 		<li>Click on the "Select Quran Directory" button and choose the directory containing the Quran MP3 files to be renamed.</li>
 		<li>BOOM all files renamed successfully</li>
 	</ol>
-	<p>Alternatively, if you are using a Windows machine, you can download the <code>Rename_Quran_Files.exe</code> file and run it directly.</p> 
-		<p>The executable file will provide you with a graphical user interface to select the Quran directory and rename the files.</p>
+	<p>Alternatively, if you are using a Windows machine, you can download the <code>Rename_Quran_surahs.exe</code> file and run it directly.</p> 
+	<p>The executable file will provide you with a graphical user interface to choose the renaming format (Arabic or English names)</p>
+	<p>then select the Quran directory and rename the files.</p>
 	<p>After renaming the files, you will be able to easily navigate and play the MP3 files based on their surah name.</p>
 	
 
